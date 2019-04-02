@@ -24,7 +24,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Update="run.ps1">
+    <None Update="RunTest.ps1">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
